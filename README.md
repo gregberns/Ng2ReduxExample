@@ -1,4 +1,4 @@
-# Ngredux
+# Ng2ReduxExample
 
 This is a demo of getting Angular2 and NgRedux working together.
 
